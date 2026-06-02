@@ -1,4 +1,4 @@
-# FineerTech
+# Fineer Tech
 
 Building modern software and web solutions, AI-powered systems, automation platforms, and scalable digital products.
 
